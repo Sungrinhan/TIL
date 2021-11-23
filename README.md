@@ -1,5 +1,5 @@
-# TIL
-Today I Learned
+# Today I Learned
+
 
 ### 오늘 내가 무엇을 했나 정리하는 일기장!
 
