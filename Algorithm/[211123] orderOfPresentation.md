@@ -33,3 +33,6 @@ console.log(output); // 3
 output = orderOfPresentation(5, [1, 3, 2, 4, 5])
 console.log(output); // 6
 ```
+
+- - - 
+해석 : N의 값이 주어졌을 때, 모든 경우의 수를 나열한다. (오름차순으로) 그리고 indexOf 메소드를 사용해서 해당값의 인덱스를 찾아서 리턴해준다.
