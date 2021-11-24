@@ -1,4 +1,4 @@
-### 공부한 내용
+### 공부한 내용(블로그에 정리)
 - 01. [모든 자바스크립트 파일을 브라우저에서 한 번에 로딩 할 때의 문제점](https://www.notion.so/03-679f60435a0741098c6301ef4a5aaeb6)
 
 - 02. [Javascript와 Nodejs가 어떻게 다른 것인지](https://www.notion.so/02-Javascript-Nodejs-ae71d50ffdb6414a9d96f1c46c4fd826)
