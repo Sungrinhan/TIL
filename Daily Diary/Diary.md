@@ -8,4 +8,6 @@
 - 04. [promise(프로미스)의 개념에 대해서 설명하고, 콜백 함수 방식과 차이점](https://www.notion.so/04-promise-34c175e94e644a65a9dccd9718f29bf8)
   - 얼마나 편해졌는지 알 수 있다.
 
+- 05. [CSR과 SSR의 개념적 차이와 동작 방식을 구분하여 설명](https://www.notion.so/11-CSR-SSR-678ebab5f8954df79b5e187a1e96f4c1)
+
 - 16. [REST한 API에 대해서 자세히 설명](https://www.notion.so/16-REST-API-ab1366d4e38440738c317919f2a02d2a)
