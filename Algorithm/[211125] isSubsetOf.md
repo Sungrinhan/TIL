@@ -30,7 +30,7 @@ output = isSubsetOf(base, sample);
 console.log(output); // --> false
 ```
 - - -
-
+#풀이
 ```js
   // naive solution: O(M * N)
   // return sample.every((item) => base.includes(item));
