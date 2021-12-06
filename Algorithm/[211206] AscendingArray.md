@@ -27,7 +27,7 @@ console.log(output); // --> [24, 25, 26, 27, 28, 29, 30, 31]
 output = ascendingArray(106,114);
 console.log(output); // --> [106, 107, 108, 109, 110, 111, 112, 113, 113, 114]
 ```
-
+- - -
 ### MINE
 ```js
 function ascendingArray(start, end) {
