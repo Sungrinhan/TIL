@@ -45,7 +45,7 @@ function ascendingArray(start, end) {
 // head 부분과 tail 부분을 나눴다. result 를 선언하고, unshift 로 start 를 추가하던지, spread syntax 를 사용해서 start 값을 추가해준다.
 // start index 와 end 가 같아지면 재귀함수가 종료된다. 
 // ascendingArray(start, end) = [start] + ascendingArray(start+1, end)
-// f(n) = n +f(n+1)
+// f(n) = n +f(n-1)
 // 1, 7 
 // [1,...ascendingArray(2, 7)] [1,2, ...ascendingArray(3,7)]
 ```
