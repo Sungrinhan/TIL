@@ -53,12 +53,12 @@ function swap(idx1, idx2, arr) {
 }
 
 function getParentIdx(idx) {
-  // TODO: 여기에 코드를 작성합니다.
+  
   return Math.floor((idx - 1) / 2);
 }
 
 function insert(heap, item) {
-  // TODO: 여기에 코드를 작성합니다.
+  
   heap.push(item);
   if (heap.length > 1) {
     let curIdx = heap.length - 1;
@@ -73,7 +73,7 @@ function insert(heap, item) {
 }
 
 function removeRoot(heap) {
-  // TODO: 여기에 코드를 작성합니다.
+  
   swap(0, heap.length - 1, heap);
   heap.pop();
   if (heap.length === 0) return [];
